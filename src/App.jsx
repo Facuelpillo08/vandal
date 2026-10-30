@@ -115,7 +115,7 @@ function App() {
           />
         </main>
 
-        <Footer onTrigger404={() => navigateTo('/404')} />
+        <Footer />
       </div>
     </SmoothScroll>
   );

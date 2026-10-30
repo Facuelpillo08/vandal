@@ -1,7 +1,7 @@
 import { ArrowUpRight } from 'lucide-react';
 import { STUDIO_INFO } from '../../data/studioData';
 
-export default function Footer({ onTrigger404 }) {
+export default function Footer() {
   const scrollToTop = () => {
     if (window.lenis) {
       window.lenis.scrollTo(0, { duration: 1.2 });
@@ -83,25 +83,6 @@ export default function Footer({ onTrigger404 }) {
             TOLERANCIA MÁXIMA 15 MINUTOS.<br />
             POLÍTICA DE PAGO EFECTIVO & CRIPTO.
           </p>
-        </div>
-      </div>
-
-      {/* Bottom Bar */}
-      <div className="border-t border-border-line px-6 md:px-12 py-6 text-[10px] font-mono text-muted-editorial flex flex-col sm:flex-row justify-between items-center gap-4">
-        <div>
-          © 2026 VANDAL // CLUB — ALL RIGHTS RESERVED. ARCHITECTURAL LUXURY DIVISION.
-        </div>
-        <div className="flex items-center gap-6">
-          <button
-            type="button"
-            onClick={onTrigger404}
-            className="hover:text-copper transition-colors cursor-pointer text-copper border border-copper/30 px-2 py-0.5 bg-stone-dark"
-            title="Probar pantalla 404 personalizada"
-          >
-            SYS_404 // PROBAR PANTALLA
-          </button>
-          <span className="text-copper">NOIR EDITORIAL SYSTEM</span>
-          <span>ESTD. BUENOS AIRES</span>
         </div>
       </div>
     </footer>

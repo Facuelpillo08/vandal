@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="title-b2">
-  <title id="title-b2">VANDAL // CLUB - Concept B2 (Razor Chevron)</title>
-  <!-- Left Chisel Blade -->
-  <polygon points="38,52 108,52 128,156 128,204" fill="#111111" />
-  <!-- Right Chisel Blade (offset by a 16px diagonal razor channel) -->
-  <polygon points="148,52 218,52 148,172 128,204" fill="#111111" />
-</svg>

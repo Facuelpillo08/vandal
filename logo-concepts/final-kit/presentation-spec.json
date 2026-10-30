@@ -1,0 +1,49 @@
+{
+  "brand": "VANDAL // CLUB",
+  "tagline": "Barbería de Autor & Blackwork Studio",
+  "brief": "Estudio híbrido de barbería y tatuajes de alta gama en Buenos Aires. Estética noir brutalista, precisión quirúrgica, acero y tinta permanente.",
+  "adjectives": [
+    "arquitectónico",
+    "quirúrgico",
+    "permanente",
+    "monolítico",
+    "exclusivo"
+  ],
+  "criteria": "Reconocible a 16 px, geometría pura sin clichés de calaveras ni tijeras de stock, paleta obsidiana y cobre.",
+  "industry": "fashion",
+  "mockups": [
+    "signage",
+    "business-card",
+    "tshirt",
+    "badge",
+    "sticker",
+    "social"
+  ],
+  "brand_color": "#D48C46",
+  "tile_color": "#0D0C0B",
+  "greyscale": false,
+  "final": true,
+  "designer": "Antigravity Identity Studio",
+  "concepts": [
+    {
+      "name": "The Surgical V // Cut",
+      "symbol": "vandal-symbol.svg",
+      "lockup": "vandal-horizontal.svg",
+      "stacked": "vandal-stacked.svg",
+      "avatar": "exports/vandal-symbol-app-icon.svg",
+      "idea": "Monograma arquitectónico 'V' con incisión a 60° que integra el corte signature '//' del club.",
+      "rationale": [
+        "Identidad propietaria que fusiona la V inicial con las barras // de la marca.",
+        "Geometría modular estricta de 60° que funciona desde 16px hasta cartelería exterior.",
+        "Resuelve el puente conceptual entre el acero de la navaja y la aguja de tatuaje."
+      ]
+    }
+  ],
+  "recommendation": "The Surgical V // Cut — La dirección definitiva y aprobada.",
+  "next_steps": [
+    "Implementación del set de favicon y web-icons en el código fuente.",
+    "Actualización del logotipo en el Navbar de la web.",
+    "Uso de los archivos maestros para rotulación exterior, indumentaria y tarjetas de visita."
+  ]
+}
+

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="title-a2">
+  <title id="title-a2">VANDAL // CLUB - Concept A2 (Unified Blade V)</title>
+  <g fill="#111111">
+    <!-- Left solid blade -->
+    <polygon points="38,48 80,48 128,131 128,208" />
+    <!-- Lower anchor -->
+    <polygon points="128,208 128,131 150,169" />
+    <!-- Right Blade 1 -->
+    <polygon points="108,48 132,48 180,131 156,131" />
+    <!-- Right Blade 2 -->
+    <polygon points="156,48 180,48 228,131 204,131" />
+  </g>
+</svg>

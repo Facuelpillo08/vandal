@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="title-c">
+  <title id="title-c">VANDAL // CLUB - Concept C: Heritage Cardinal Seal</title>
+  <!-- Cardinal 4-Segment Frame (Pure Outlines) -->
+  <g fill="#111111">
+    <!-- Top-Right Quadrant -->
+    <path d="M 136 32.33 A 96 96 0 0 1 223.67 120 L 211.71 120 A 84 84 0 0 0 136 44.29 Z" />
+    <!-- Bottom-Right Quadrant -->
+    <path d="M 223.67 136 A 96 96 0 0 1 136 223.67 L 136 211.71 A 84 84 0 0 0 211.71 136 Z" />
+    <!-- Bottom-Left Quadrant -->
+    <path d="M 120 223.67 A 96 96 0 0 1 32.33 136 L 44.29 136 A 84 84 0 0 0 120 211.71 Z" />
+    <!-- Top-Left Quadrant -->
+    <path d="M 32.33 120 A 96 96 0 0 1 120 32.33 L 120 44.29 A 84 84 0 0 0 44.29 120 Z" />
+    
+    <!-- Central Modern Roman V (Exact 60° Geometry) -->
+    <!-- Left Bold Stem -->
+    <polygon points="72.57,80 96.57,80 128,134.43 128,176" />
+    <!-- Right Hairline Blade -->
+    <polygon points="128,176 128,158.68 173.43,80 183.43,80" />
+    <!-- Left Top Serif -->
+    <polygon points="64,74 104,74 104,80 64,80" />
+    <!-- Right Top Serif -->
+    <polygon points="168,74 190,74 190,80 168,80" />
+    
+    <!-- Cardinal Precision Rivets -->
+    <circle cx="58" cy="128" r="4.5" />
+    <circle cx="198" cy="128" r="4.5" />
+  </g>
+</svg>

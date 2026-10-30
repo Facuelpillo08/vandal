@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="title-a">
+  <title id="title-a">VANDAL // CLUB - Concept A (Surgical V-Cut)</title>
+  <!-- Monolithic Left Wing & Grounded Razor Apex -->
+  <polygon points="38,48 76,48 128,138 128,204" fill="#111111" />
+  
+  <!-- Right Wing Blade 1 (Inner Slash of //) -->
+  <polygon points="102,48 126,48 174,131 150,131" fill="#111111" />
+  
+  <!-- Right Wing Blade 2 (Outer Slash of //) -->
+  <polygon points="152,48 176,48 224,131 200,131" fill="#111111" />
+  
+  <!-- Lower Connecting Needle Wedge -->
+  <polygon points="128,148 148,183 128,204" fill="#111111" />
+</svg>

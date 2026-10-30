@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="title-c">
+  <title id="title-c">VANDAL // CLUB - Concept C (Club Cardinal Seal)</title>
+  <!-- Top-Right Arc -->
+  <path fill="none" stroke="#111111" stroke-width="16" stroke-linecap="square"
+        d="M 142 30 A 98 98 0 0 1 226 114" />
+  <!-- Bottom-Right Arc -->
+  <path fill="none" stroke="#111111" stroke-width="16" stroke-linecap="square"
+        d="M 226 142 A 98 98 0 0 1 142 226" />
+  <!-- Bottom-Left Arc -->
+  <path fill="none" stroke="#111111" stroke-width="16" stroke-linecap="square"
+        d="M 114 226 A 98 98 0 0 1 30 142" />
+  <!-- Top-Left Arc -->
+  <path fill="none" stroke="#111111" stroke-width="16" stroke-linecap="square"
+        d="M 30 114 A 98 98 0 0 1 114 30" />
+  
+  <!-- Central Chiseled Roman V -->
+  <!-- Left heavy stem: from (68, 76) to (128, 184) -->
+  <polygon points="64,76 92,76 128,184 100,184" fill="#111111" />
+  <!-- Right hairline blade: from (128, 184) to (188, 76) with micro-serif -->
+  <polygon points="128,184 120,184 176,76 192,76" fill="#111111" />
+  <!-- Top left serifs -->
+  <polygon points="56,76 96,76 96,82 56,82" fill="#111111" />
+  <polygon points="172,76 196,76 196,82 172,82" fill="#111111" />
+</svg>
